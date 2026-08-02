@@ -31,5 +31,5 @@
   <img height="200" align="center" src="./profile/stats.svg" />
 </a>
 <a href="https://github.com/BestJarvan">
-  <img height="200" align="center" src="./profile//top-langs.svg" />
+  <img height="200" align="center" src="./profile//top-langs.svg?card_width=355" />
 </a>
