@@ -27,8 +27,8 @@
 ---
 
 ### 🏔 Github
-<!-- ![Stats](./profile/stats.svg)
-![TopLangs](./profile/top-langs.svg) -->
+![Stats](./profile/stats.svg)
+![TopLangs](./profile/top-langs.svg)
 
 <a href="https://github.com/BestJarvan">
   <img height=200 align="center" src="./profile/stats.svg" />
